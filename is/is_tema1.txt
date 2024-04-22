@@ -1,0 +1,22 @@
+Tema 1
+2. UML este o consolidare a celor mai bune practici care au fost stabilite de-a lungul anilor în limbajele de modelare. Acesta ne permite să prezentăm aspectele variate ale unui sistem software într-un singur framework folosind concepte orientate-obiect. 
+3. Un model este întotdeauna o imagine a ceva, o reprezentare care nu capturează toate atributele, ci doar cele relevante pentru modelator sau cel ce folosește modelul.
+5,6,7. 	1) Diagrame de structură:
+		a) Diagrama de clase - pentru OOP, generalizare și relații între clase
+		b) Diagrama de obiecte
+		c) Diagrama de pachete
+		d) Diagrama de componente
+		e) Diagrama de structuri ale compoziției
+		f) Diagrama de deployment
+		g) Diagrama de profil
+	2) Diagrame de comportament:
+		a) Diagrama use case - pentru definirea funcționalităților pe care sistemul trebuie să le îndeplinească
+		b) Diagrama state machine - descrie comportamentul unui obiect sub forma unor stări
+		c) Diagrama de activitate - pentru descompunerea în pașii necesari pentru a face o acțiune
+		d) Diagrama de secvență - pentru a ordona cronologic interacțiunile dintre obiecte
+		e) Diagrama de comunicație
+		f) Diagrama de timing
+		g) Diagrama de interaction overview
+	Deosebiri: diagramele de structură arată componenetele care alcătuiesc sistemul și relațiile dintre ele, iar cele de comportament arată ce se întâmplă în sistem (dinamic)
+	Asemănări: toate diagramele folosesc elemente de bază cum ar fi clase, interfețe, relații și acțiuni
+		
